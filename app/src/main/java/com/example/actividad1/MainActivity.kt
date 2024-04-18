@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
             val contraseña = ptContraseña.text.toString()
             val apodo = ptApodo.text.toString()
 
-            if (usuario == "Alex") {
+            if (usuario == "Cegax") {
                 if (contraseña == "123") {
                     val intent = Intent(this, MainActivity2::class.java)
                     intent.putExtra("usuario", usuario)

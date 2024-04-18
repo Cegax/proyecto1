@@ -3,4 +3,14 @@
     <string name="btn_siguiente">Siguiente</string>
     <string name="op_1">Canciones</string>
     <string name="op_2">Películas</string>
+
+
+    <string-array name="generosp">
+        <item>Acción</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Ciencia Ficción</item>
+    </string-array>
+
 </resources>
